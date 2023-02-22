@@ -1,0 +1,6 @@
+name = "script"
+main = "src/index.ts"
+compatibility_date = "2023-02-14"
+kv_namespaces = [
+  { binding = "IPS", id = "XXXX", preview_id = "XXXX" }
+]
